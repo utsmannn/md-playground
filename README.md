@@ -3,4 +3,4 @@
 ![](https://anu-mas.herokuapp.com/image3)
 
 
-![](https://anu-mas.herokuapp.com/icon)
+![](https://dark-mode-favicon.glitch.me/icon.svg)
