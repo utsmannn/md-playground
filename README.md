@@ -3,5 +3,5 @@
 ![](https://anu-mas.herokuapp.com/image2.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://anu-mas.herokuapp.com/image2?" />
+  <img align="center" src="https://anu-mas.herokuapp.com/image3" />
 </a>
