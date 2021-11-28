@@ -26,4 +26,5 @@
 </object>
     
 
-![GitHub Light](https://anu-mas-github.herokuapp.com/icon.svg#stroke=green)
+![GitHub Light](https://anu-mas.herokuapp.com/github#gh-light-mode-only)
+![GitHub Light](https://anu-mas.herokuapp.com/github#gh-dark-mode-only)
