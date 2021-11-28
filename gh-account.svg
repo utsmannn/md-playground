@@ -1,6 +1,6 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <view id="gh-light-mode-only"/>
-  <circle cx="50" cy="50" r="47" fill="yellow"/>
-  <view id="gh-dark-mode-only"/>
+  <view id="gh-light-mode-only" viewBox="0 0 93 20"/>
+  <circle cx="50" cy="50" r="47" fill="red"/>
+  <view id="gh-dark-mode-only" viewBox="0 0 93 20"/>
   <circle cx="50" cy="50" r="47" fill="green"/>
 </svg>
