@@ -30,3 +30,9 @@
 
 ![GitHub Light](https://anu-mas.herokuapp.com/github#gh-light-mode-only)
 ![GitHub Dark](https://anu-mas.herokuapp.com/github#gh-dark-mode-only)
+
+---
+![GitHub Light](gh-account.svg#gh-light-mode-only)
+![GitHub Dark](gh-account.svg#gh-dark-mode-only)
+
+
