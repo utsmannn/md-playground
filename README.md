@@ -9,4 +9,4 @@
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 ![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 
-![GitHub-Mark-Light](/cat-dark.jpeg#gh-dark-mode-only)![GitHub-Mark-Dark](/cat-light.webp#gh-light-mode-only)
+![GitHub-Mark-Light](https://anu-mas-github.herokuapp.com/image3#gh-dark-mode-only)![GitHub-Mark-Dark](https://anu-mas-github.herokuapp.com/image.svg#gh-light-mode-only)
