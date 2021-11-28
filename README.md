@@ -32,7 +32,7 @@
 ![GitHub Dark](https://anu-mas.herokuapp.com/github#gh-dark-mode-only)
 
 ---
-![GitHub Light](gh-account.svg#gh-light-mode-only)
-![GitHub Dark](gh-account.svg#gh-dark-mode-only)
+![GitHub Light](gh-account-light.svg#gh-light-mode-only)
+![GitHub Dark](gh-account-dark.svg#gh-dark-mode-only)
 
 
