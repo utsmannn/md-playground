@@ -12,4 +12,10 @@
 ![GitHub-Mark-Light](https://anu-mas-github.herokuapp.com/image3#gh-dark-mode-only)![GitHub-Mark-Dark](https://anu-mas-github.herokuapp.com/image.svg#gh-light-mode-only)
 
 
+<object type="image/svg+xml" data="https://anu-mas-github.herokuapp.com/icon.svg">
+        <param name="stroke" value="red" />
+        <param name="label" value="stop" />
+</object>
+    
+
 ![GitHub Light](https://anu-mas-github.herokuapp.com/icon.svg#stroke=green)
