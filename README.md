@@ -25,6 +25,8 @@
         <param name="label" value="stop" />
 </object>
     
+    
+    ---
 
 ![GitHub Light](https://anu-mas.herokuapp.com/github#gh-light-mode-only)
-![GitHub Light](https://anu-mas.herokuapp.com/github#gh-dark-mode-only)
+![GitHub Dark](https://anu-mas.herokuapp.com/github#gh-dark-mode-only)
