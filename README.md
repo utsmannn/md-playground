@@ -1,9 +1,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=utsmannn&show_icons=true&theme=dark)
 
-![](https://anu-mas.herokuapp.com/icon#gh-dark-mode-only)
-
-![](https://anu-mas.herokuapp.com/icon#gh-light-mode-only)
+<p align='center'>
+<img width='400px' height='100px' src='https://anu-mas.herokuapp.com/icon#gh-light-mode-only' >
+<img width='400px' height='100px' src='https://anu-mas.herokuapp.com/icon#gh-dark-mode-only'>
+</p>
 
 
 ![](https://anu-mas.herokuapp.com/image3#gh-dark-mode-only)
