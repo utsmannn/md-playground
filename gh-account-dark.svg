@@ -1,5 +1,5 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <image x="0" y="0" width="100" height="100" xlink:href="http://i.imgur.com/7Nlcay7.jpg"></image>
- 
+<!--   <image x="0" y="0" width="100" height="100" xlink:href="http://i.imgur.com/7Nlcay7.jpg"></image> -->
+ <feImage xlink:href="http://i.imgur.com/7Nlcay7.jpg"/>
 </svg>
 
