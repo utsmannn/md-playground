@@ -8,3 +8,5 @@
 
 <img align="center" src="https://anu-mas.herokuapp.com/image3#gh-light-mode-only" />
 <img align="center" src="https://anu-mas.herokuapp.com/icon.svg#gh-dark-mode-only" />
+
+![GitHub-Mark-Light](https://anu-mas.herokuapp.com/image3#gh-dark-mode-only)![GitHub-Mark-Dark](https://anu-mas.herokuapp.com/icon.svg#gh-light-mode-only)
