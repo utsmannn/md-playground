@@ -28,8 +28,8 @@
     
     ---
 
-![GitHub Light](https://anu-mas.herokuapp.com/test#gh-light-mode-only)
-![GitHub Dark](https://anu-mas.herokuapp.com/test#gh-dark-mode-only)
+![GitHub Light](https://anu-mas.herokuapp.com/github#gh-light-mode-only)
+![GitHub Dark](https://anu-mas.herokuapp.com/github#gh-dark-mode-only)
 
 ---
 ![GitHub Light](gh-account-light.svg#gh-light-mode-only)
