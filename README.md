@@ -6,7 +6,7 @@
 
 ![](https://anu-mas.herokuapp.com/image3#gh-dark-mode-only) -->
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+![GitHub Light](https://github.com/github-light.png)
 
 
 ![GitHub Dark](https://anu-mas-github.herokuapp.com/icon.svg?color=red&label=sip)
